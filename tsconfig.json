@@ -4,6 +4,6 @@
         "module": "CommonJS",  //module code generation                   
         "removeComments": true, //remove coments khi biên dịch
         "esModuleInterop": true, // dung import thay cho require
-        "outDir": "./dist"
+        "outDir": "dist"
     }                    
 }
